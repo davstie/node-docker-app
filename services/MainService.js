@@ -15,7 +15,7 @@
 exports.getApiDescription = function(callback) {
   var description = {
     name: 'node-docker-app',
-    description: 'Sample node2.js Application deployed in a docker container drugi test',
+    description: 'Sample node2.js Application deployed in a docker container trzeci i ostatni test',
     port: 4040,
     author: 'ritesh',
     version: '1.0',
